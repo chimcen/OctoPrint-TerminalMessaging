@@ -42,6 +42,9 @@ UI.
 
 This plugin is very small, and just edits the css of the elements in the terminal for readability.
 
+Take a look at more documentation [in
+github](https://github.com/jeffeb3/OctoPrint-TerminalMessaging/blob/master/README.md)
+
 Enjoy!
 
 ### Special Thanks
